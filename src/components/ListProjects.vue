@@ -34,18 +34,6 @@ defineProps<{ projects: Record<string, any[]> }>()
       </a>
     </div>
   </template>
-  <div class="markdown pb5">
-    <p op75>
-      <em>
-        Thanks for getting intersted in my works! If like them or find them useful, consider
-        &nbsp;<a
-          href="https://github.com/sponsors/antfu"
-          target="_blank"
-          rel="nofollow noopener noreferrer"
-        >sponsoring me</a>&nbsp;to support me keeping them sustainable. Cheers! :)
-      </em>
-    </p>
-  </div>
 </template>
 
 <style scoped>

@@ -1,5 +1,3 @@
-**[antfu.me](https://antfu.me)**
-
 my personal website powered by [Vite](https://vitejs.dev/)
 
 <br>

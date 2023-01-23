@@ -1,6 +1,6 @@
 ---
-title: Blog - Anthony Fu
-display: ''
+title: Blog - Bruce Yu
+display: ""
 plum: true
 ---
 
